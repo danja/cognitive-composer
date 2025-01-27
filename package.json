@@ -1,7 +1,7 @@
 {
-  "name": "hyperdata-package-template",
+  "name": "cognitive-composer",
   "version": "1.0.0",
-  "description": "Common setup for tools",
+  "description": "GUI for creating and managing cognitive models",
   "main": "index.js",
   "scripts": {
     "docs": "jsdoc -c jsdoc.json",
